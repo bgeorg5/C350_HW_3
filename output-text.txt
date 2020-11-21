@@ -1,0 +1,1046 @@
+-------------------------------Full Time Faculty-------------------------------
+| Name and Title:
+                                    
+                                    Acharya, Subrata
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Cyber Physical Systems, Medical Analytics, Trusted Computing, Information Security
+                                    Management, Secure Health Informatics, Secure Mobile Systems, Ethical & Privacy Issues
+                                    in Computing Systems
+                                  
+| contact:
+                                    
+                                    sacharya@towson.edu
+                                    
+                                    (410) 704-4938
+                                    
+                                    YR-461
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Ali-Gombe, Aisha 
+                                    
+                                    Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Malware Analysis, System Security, Privacy Policy Techniques in Mobile Applications,
+                                    Software Reverse Engineering, Code Fingerprinting, Software Instrumentation, Database
+                                    and Device Memory Forensics
+                                  
+| contact:
+                                    
+                                    aaligombe@towson.edu 
+                                    
+                                    
+                                    (410)704-5439
+                                    
+                                    YR-447
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Alkharouf, Nadim
+                                    
+                                    Professor & MB3 Undergraduate Director
+                                    
+                                  
+| expertise:
+ 
+                                    Bioinformatics, Design and Development of Database Management Systems and Data Mining
+                                    Tools
+                                  
+| contact:
+                                    
+                                    nalkharouf@towson.edu
+                                    
+                                    (410) 704-3149
+                                    
+                                    YR-471
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Brown, Cheryl Thomas
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                    Sociological Effects of Computerization, Management/End-User Liaison, Systems Analysis,
+                                    Database Management and Operating Systems
+                                  
+| contact:
+                                    
+                                    cbrown@towson.edu
+                                    
+                                    (410) 704-4966
+                                    
+                                    YR-444
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Chakraborty, Joyram
+                                    
+                                    Associate Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Human-Computer Interaction, Medical Informatics, Computer Game Design 
+| contact:
+                                    
+                                    jchakraborty@towson.edu
+                                    
+                                    (410) 704-2109
+                                    
+                                    YR-474
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Chakraborty, Suranjan
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Requirements Engineering, Distributed Information Systems Development Teams, Qualitative
+                                    Research Methods, Human Computer Interaction
+                                  
+| contact:
+                                    
+                                    schakraborty@towson.edu
+                                    
+                                    (410) 704-4769
+                                    
+                                    YR-469
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Conover, Adam
+                                    
+                                    Clinical Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Object-Oriented Programming, Web Development, Programming Languages, Embedded Systems,
+                                    Multi-Agent Systems
+                                  
+| contact:
+                                    
+                                    aconover@towson.edu
+                                    
+                                    (410) 704-4782
+                                    
+                                    YR-425
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Davani, Darush
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Mathematical Modeling, Computer Simulation, Robotics, Earthquake Engineering 
+| contact:
+                                    
+                                    ddavani@towson.edu
+                                    
+                                    (410) 704-2774
+                                    
+                                    YR-470
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Dehlinger, Josh
+                                    
+                                    Professor & Director of CS Program
+                                    
+                                  
+| expertise:
+ 
+                                    Software Engineering, Requirements Engineering, Software Analysis and Design, Programming
+                                    Languages
+                                  
+| contact:
+                                    
+                                    jdehlinger@towson.edu
+                                    
+                                    (410) 704-4536
+                                    
+                                    YR-476
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Deng, Lin
+                                    
+                                    Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Software Engineering, Software Testing, Mobile and Web Application Development, Cybersecurity,
+                                    Mutation Analysis, Crowdsourcing
+                                  
+| contact:
+                                    
+                                    ldeng@towson.edu 
+                                    
+                                    
+                                    (410) 704-2894
+                                    
+                                    YR-436
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Dierbach, Charles
+                                    
+                                    Associate Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Artificial Intelligence (Analogical Reasoning), Object-Oriented Design and Development,
+                                    Computer Education
+                                  
+| contact:
+                                    
+                                    cdierbach@towson.edu
+                                    
+                                    (410) 704-3552
+                                    
+                                    YR-464
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Downing-Harris, Terry
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                    Software Engineering, Systems Analyst, Information Technology, Information Systems, Database Management System development, IT Management, Programming Languages 
+| contact:
+                                    
+                                    tdowningharris@towson.edu
+                                    
+                                    (410) 704-4662
+                                    
+                                    YR-457
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Dudley, Alfreda
+                                    
+                                    Clinical Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Information Technology, Databases, Cyber Ethics, Cyber Law, Public Policy, Virtual
+                                    Worlds, Augmented Reality, Thanatechnology
+                                  
+| contact:
+                                    
+                                    adudley@towson.edu
+                                    
+                                    (410) 704-4946
+                                    
+                                    YR-426
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Eyer, Robert
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                    Bare Machine Computing, Network Security, Encryption Algorithms 
+| contact:
+                                    
+                                    reyer@towson.edu
+                                    
+                                    (410) 704-2428
+                                    
+                                    YR-437
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Feng, Heidi
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Human-Computer Interaction, Accessible Computing, Health Informatics, Accessible Security
+                                    Solutions
+                                  
+| contact:
+                                    
+                                    jfeng@towson.edu
+                                    
+                                    (410) 704-3463
+                                    
+                                    YR-477
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Hammell, Robert
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Fuzzy Logic, Machine Learning, Artificial Intelligence, Computer Networks 
+| contact:
+                                    
+                                    rhammell@towson.edu
+                                    
+                                    (410) 704-6050
+                                    
+                                    YR-462
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Hilberg, Scott
+                                    
+                                    Clinical Professor
+                                    
+                                  
+| expertise:
+ 
+                                    ICT Fluency, Information Technology Management, Technology Education and Software
+                                    Development
+                                  
+| contact:
+                                    
+                                    shilberg@towson.edu
+                                    
+                                    (410) 704-5277
+                                    
+                                    YR-423
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Hong, Sungchul
+                                    
+                                    Associate Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Auction Market Mechanism, e-Commerce, Intelligent Agents, Data Classification 
+| contact:
+                                    
+                                    shong@towson.edu
+                                    
+                                    (410) 704-6338
+                                    
+                                    YR-479
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Hornberger, Alex
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                      
+| contact:
+                                    
+                                    ahornberger@towson.edu
+                                    
+                                    (410) 704-2633
+                                    
+                                    YR-430
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Hossain, Moinul
+                                    
+                                    Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Security Assessment of Wireless Network Protocols and Threat Modeling, Cross-technology
+                                    Spectrum Sharing, Dynamic Spectrum Access, Cognitive Radio Networks
+                                  
+| contact:
+                                    
+                                    mhossain@towson.edu
+                                    
+                                    (410) 704-6310
+                                    
+                                    YR-443
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Irani, Jal
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                      
+| contact:
+                                    
+                                    jirani@towson.edu
+                                    
+                                    (410) 704-2633
+                                    
+                                    YR-430
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Jacobson, Mark
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                    IT Policy and Governance; Business Process Re-Design, Enterprise Resource Planning,
+                                    Federal IT Procurement, IT Program and Project Management, IT Strategic Planning and
+                                    Assessment, IT Capstone, IT Internal Controls and Oversight, Enterprise Architecture,
+                                    IT Budget, Application Systems Planning and Analysis, IT Investment Analysis
+                                  
+| contact:
+                                    
+                                    mtjacobson@towson.edu
+                                    
+                                    (410) 704-4773
+                                    
+                                    YR-442
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Karne, Ramesh
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Bare Machine Computing Applications and Architectures; Transformation of OS Based
+                                    Applications to Bare Machine Computing Applications; Design, Implementation and Performance
+                                    Analysis of Server Systems, Gateways, Routers, Network Clients, Browser and other
+                                    Network Elements
+                                  
+| contact:
+                                    
+                                    rkarne@towson.edu
+                                    
+                                    (410) 704-3955
+                                    
+                                    YR-429
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Kaza, Sidd
+                                    
+                                    Professor, Department Chair & Interim Director of Graduate Program
+                                    
+                                  
+| expertise:
+ 
+                                    Cybersecurity Education, Data/Web Mining, Learning Sciences, Web and Mobile Application
+                                    Development
+                                  
+| contact:
+                                    
+                                    skaza@towson.edu
+                                    
+                                    (410) 704-2633
+                                    
+                                    YR-406C
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Kelleher, Tina
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                      
+| contact:
+                                    
+                                    tkelleher@towson.edu
+                                    
+                                    (410) 704-3951
+                                    
+                                    YR-445
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Kim, Yanggon
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Computer Architecture, Computer Networks, Communications, Computer Graphics, High-Performance
+                                    Computing Systems
+                                  
+| contact:
+                                    
+                                    ykim@towson.edu
+                                    
+                                    (410) 704-3782
+                                    
+                                    YR-473
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Liao, Weixian
+                                    
+                                    Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Big data analytics, cybersecurity, and networking in cyber physical systems and IoT 
+| contact:
+                                    
+                                    wliao@towson.edu
+                                    
+                                    (410) 704-2154
+                                    
+                                    YR-438
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Loksa, Dastyni
+                                    
+                                    Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Computer Science Education, Human-Computer Interaction 
+| contact:
+                                    
+                                    dloksa@towson.edu
+                                    
+                                     
+                                    
+                                    YR-431
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Lu, Chao
+                                    
+                                    Professor &  Director of Doctoral Program
+                                    
+                                  
+| expertise:
+ 
+                                    Digital Signal Processing, Algorithm Design and Implementation, FFTs, Parallel and
+                                    Vector Computing, Computer Vision and Image Processing
+                                  
+| contact:
+                                    
+                                    clu@towson.edu
+                                    
+                                    (410) 704-3950
+                                    
+                                    YR-465
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    McGuire, Michael
+                                    
+                                    Associate Professor & Director of IT Program 
+                                    
+                                  
+| expertise:
+ 
+                                    Spatio-Temporal Data Mining, Data Warehousing, Sensor Database Systems, Distributed
+                                    Databases, Environmental Informatics, Information Visualization
+                                  
+| contact:
+                                    
+                                    mmcguire@towson.edu
+                                    
+                                    (410) 704-2337
+                                    
+                                    YR-424
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Meiselwitz, Gabriele
+                                    
+                                    Professor &  Director of IS Program
+                                    
+                                  
+| expertise:
+ 
+                                    Web-Based Technologies, Distance Learning, Human-Centered Computing, Social Networking,
+                                    Multimedia
+                                  
+| contact:
+                                    
+                                    gmeiselwitz@towson.edu
+                                    
+                                    (410) 704-2835
+                                    
+                                    YR-468
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Nguyen, Nam
+                                    
+                                    Associate Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Social Network Analysis, Social-aware Mobile Computing, Data Mining, and Cyber Security 
+| contact:
+                                    
+                                    npnguyen@towson.edu
+                                    
+                                    (410) 704-3089
+                                    
+                                    YR-427
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    O'Leary, Michael
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Mathematical Algorithms for Geographic Profiling, Cybersecurity 
+| contact:
+                                    
+                                    moleary@towson.edu
+                                    
+                                    (410) 704-4757
+                                    
+                                    YR-317
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Pak, Jinie
+                                    
+                                    Clinical Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Intelligence and Security Informatics, Social Network Analysis, Computational Linguistics, Computer
+                                    Supported Cooperative Works (CSCW), Human-Computer Interaction
+                                  
+| contact:
+                                    
+                                    jpak@towson.edu
+                                    
+                                    (410) 704-3873
+                                    
+                                    YR-458
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Saeedloei, Neda
+                                    
+                                    Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Formal Methods; Model-based Design, Specification and Verification of Cyber-physical
+                                    Systems, Models of Computation, Logic in Computer Science
+                                  
+| contact:
+                                    
+                                    nsaeedloei@towson.edu
+                                    
+                                    (410) 704-2255
+                                    
+                                    YR-455
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Sanders, Willie
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                      
+| contact:
+                                    
+                                    wsanders@towson.edu
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Song, Yeong-Tae
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Program Slicing, Software Impact Analysis, Software Architecture, Enterprise Architecture,
+                                    e-Learning Systems, Health Informatics
+                                  
+| contact:
+                                    
+                                    ysong@towson.edu
+                                    
+                                    (410) 704-3557
+                                    
+                                    YR-472
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Tang, Katherine
+                                    
+                                    Associate Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Multimedia, Comp Graphics and Vision, Comp Animation and Gaming, Machine Learning,
+                                    Human-Comp Interaction, Virtual Reality and Virtual Environment
+                                  
+| contact:
+                                    
+                                    ztang@towson.edu
+                                    
+                                    (410) 704-3090
+                                    
+                                    YR-478
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Tavakolan, Mona
+                                    
+                                    Clinical Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Bioinformatics, Computational Biology, Computer Networks, Design and Development of
+                                    Database Management Systems
+                                  
+| contact:
+                                    
+                                    mtavakolan@towson.edu
+                                    
+                                    (410) 704-4781
+                                    
+                                    YR-456
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Taylor, Blair
+                                    
+                                    Associate Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Software Security, Secure Coding, Security Education 
+| contact:
+                                    
+                                    btaylor@towson.edu
+                                    
+                                    (410) 704-4560
+                                    
+                                    YR-463
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Tessler, Chuck
+                                    
+                                    Assistant Professor
+                                    
+                                  
+| expertise:
+ 
+                                      
+| contact:
+                                    
+                                    ctessler@towson.edu
+                                    
+                                     
+                                    
+                                    YR-442
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Wang, Kathy
+                                    
+                                    Associate Professor & Assistant Chairperson
+                                    
+                                  
+| expertise:
+ 
+                                    Group Decision Support System, Human-Computer Interaction, Computer Supported Cooperative
+                                    Work, Knowledge Management, System Analysis and Design, Software Engineering, Asynchronous
+                                    Learning Network, e-Commerce
+                                  
+| contact:
+                                    
+                                    ywang@towson.edu
+                                    
+                                    (410) 704-2104
+                                    
+                                    YR-475
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Wijesinha, Alexander
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Computer Networks, Wireless Networks, Network Aspects of Bare Machine Computing, Network
+                                    Security, Network Performance
+                                  
+| contact:
+                                    
+                                    awijesinha@towson.edu
+                                    
+                                    (410) 704-4660
+                                    
+                                    YR-428
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Wilbanks, Linda
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                      
+| contact:
+                                    
+                                    lwilbanks@towson.edu
+                                    
+                                    (410) 704-2981
+                                    
+                                    YR-446
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Yu, Wei
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Cyber Security, Computer Networks and Cyber-Physical Systems 
+| contact:
+                                    
+                                    wyu@towson.edu
+                                    
+                                    (410) 704-5528
+                                    
+                                    YR-467
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Zimand, Iliana
+                                    
+                                    Lecturer
+                                    
+                                  
+| expertise:
+ 
+                                    Programming Languages, Algorithms, Databases 
+| contact:
+                                    
+                                    izimand@towson.edu
+                                    
+                                    (410 704-4666
+                                    
+                                    YR-441
+                                    
+                                  
+--------------------------------------------------------------
+
+| Name and Title:
+                                    
+                                    Zimand, Marius
+                                    
+                                    Professor
+                                    
+                                  
+| expertise:
+ 
+                                    Computational Complexity, Algorithms, Cryptography 
+| contact:
+                                    
+                                    mzimand@towson.edu
+                                    
+                                    (410) 704-4967
+                                    
+                                    YR-466
+                                    
+                                  
+--------------------------------------------------------------
